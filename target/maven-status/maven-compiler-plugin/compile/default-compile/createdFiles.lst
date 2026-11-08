@@ -1,0 +1,15 @@
+com\bookstore\exception\DuplicateIsbnException.class
+com\bookstore\BookstoreApiApplication.class
+com\bookstore\exception\ResourceNotFoundException.class
+com\bookstore\exception\GlobalExceptionHandler.class
+com\bookstore\service\BookService.class
+com\bookstore\dto\BookResponse.class
+com\bookstore\exception\ErrorResponse.class
+com\bookstore\mapper\BookMapper.class
+com\bookstore\config\JpaAuditingConfig.class
+com\bookstore\controller\BookController.class
+com\bookstore\domain\Book.class
+com\bookstore\dto\BookRequest.class
+com\bookstore\config\OpenApiConfig.class
+com\bookstore\config\DataSeeder.class
+com\bookstore\repository\BookRepository.class
